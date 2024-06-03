@@ -12,7 +12,7 @@ export const publicRoutes = ["/",
   @types {string[]}
   */
 
-export const authRoutes = ["/auth/login", "/auth/register", "/auth/error"];
+export const authRoutes = ["/auth/login", "/auth/register", "/auth/error", "/auth/reset"];
 
 // The prefix for the api routes
 //Routes that start with this prefix are used for API authentication and authorization
